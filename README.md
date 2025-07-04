@@ -1,0 +1,2 @@
+# NebulaDiscordRansom
+ransomware in python 
